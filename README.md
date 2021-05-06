@@ -1,7 +1,5 @@
 # ✨ [Blog for Subhrodip Mohanta](https://blog.subho.xyz) ✨
 
-<img src="https://themes.stackbit.com/images/ampersand-demo-1024x768.png" width="600">
-
 This is a [Jekyll](https://jekyllrb.com) site using Git as a [CMS](https://en.wikipedia.org/wiki/Content_management_system).
 
 <details>
