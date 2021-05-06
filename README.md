@@ -1,10 +1,8 @@
-# ✨ subhromo ✨
+# ✨ [Blog for Subhrodip Mohanta](https://blog.subho.xyz) ✨
 
 <img src="https://themes.stackbit.com/images/ampersand-demo-1024x768.png" width="600">
 
-This is a [Jekyll](https://jekyllrb.com) site using Git as a [CMS](https://en.wikipedia.org/wiki/Content_management_system). It was created with [Stackbit](https://www.stackbit.com?utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes) in under a minute.
-
-You can [create a site](https://app.stackbit.com/create?theme=https://github.com/stackbit-themes/ampersand-unibit&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes) just like this one, or explore some variations. How about a different:
+This is a [Jekyll](https://jekyllrb.com) site using Git as a [CMS](https://en.wikipedia.org/wiki/Content_management_system).
 
 <details>
         <summary>🎨 &nbsp;<strong>Look</strong></summary>
@@ -68,8 +66,6 @@ You can [create a site](https://app.stackbit.com/create?theme=https://github.com
 To start editing your site, you can edit the included Markdown files.
 
 Alternatively, you can use the free on-page editing experience provided by the [Stackbit Studio](https://stackbit.com?utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes).
-
-[![](https://i3.ytimg.com/vi/zd9lGRLVDm4/hqdefault.jpg)](https://stackbit.link/project-readme-lead-video)
 
 Here's a few resources to get you started:
 
