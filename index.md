@@ -1,7 +1,7 @@
 ---
 title: Home
 has_intro: true
-intro_content: Likes treating everything as an Object
+intro_content: Writing readable and scalable code that unites distributed systems to power your daily apps
 has_more_link: true
 more_link_text: Read more
 seo:
