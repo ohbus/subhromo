@@ -5,17 +5,17 @@ intro_content: Writing readable and scalable code that unites distributed system
 has_more_link: true
 more_link_text: Read more
 seo:
-  title: Stackbit Ampersand Theme
-  description: The preview of the Ampersand theme
+  title: Subhrodip Mohanta's Blog
+  description: Subhrodip Mohanta's Blog
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Ampersand Theme
+      value: Blog for Subhrodip Mohanta
       keyName: property
     - name: 'og:description'
-      value: The preview of the Ampersand theme
+      value: Subhrodip Mohanta's Blog
       keyName: property
     - name: 'og:image'
       value: images/ampersand-preview.png
@@ -24,9 +24,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Ampersand Theme
+      value: Blog for Subhrodip Mohanta
     - name: 'twitter:description'
-      value: The preview of the Ampersand theme
+      value: Subhrodip Mohanta's Twitter
     - name: 'twitter:image'
       value: images/ampersand-preview.png
       relativeUrl: true
